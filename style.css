@@ -1,0 +1,20 @@
+.box{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+}
+
+.btn{
+    width: 100px;
+    height: 35px;
+    background-color: blueviolet;
+    border-color: black;
+    font-weight: bold;
+}
+
+#box2{
+    width: 300px;
+    height: 300px;
+    background-color: rgb(21, 0, 29);
+    
+}
