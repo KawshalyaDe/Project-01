@@ -1,0 +1,11 @@
+#first-div{
+    border: 5px solid black;
+    margin-top: 320px ;
+    margin-bottom: 100px; ;
+    margin-left: 500px;
+    margin-right: 500px;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
