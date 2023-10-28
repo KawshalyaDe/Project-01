@@ -18,3 +18,16 @@
     background-color: rgb(21, 0, 29);
     
 }
+
+#textbox-01{
+    margin-left: 250;
+}
+
+.my-btn{
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+    border: 2px solid indigo;
+    margin: 20px;
+    margin-left: 250px;
+}
