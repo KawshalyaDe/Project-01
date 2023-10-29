@@ -43,13 +43,9 @@
     font-size: medium;
 }
 
-.box01{
-    width: 100px;
-    height: 100px;
-    background-color: red;
+.img-01 {
+    max-width: 100%;
+    height: auto;
     position: fixed;
-    right: 10px;
-    bottom: 10px;
-    transform-style: preserve-3d;
     
-}
+  }
