@@ -49,3 +49,8 @@
     position: fixed;
     
   }
+
+  .carousel-slide-01{
+    width: 700px;
+    height: auto;
+  }
